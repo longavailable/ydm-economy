@@ -1,3 +1,6 @@
 [submodule "pop-gdp-analysis"]
 	path = pop-gdp-analysis
 	url = https://github.com/longavailable/ydm-population-gdp-analysis.git
+[submodule "pop-gdp-plotting"]
+	path = pop-gdp-plotting
+	url = https://github.com/longavailable/ydm-population-gdp-plotting.git
